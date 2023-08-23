@@ -8,6 +8,7 @@ Welcome to the X-Airflow-ETL-Pipeline project! This project aims to extract data
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Configuration](#configuration)
+- [Architecture] (#architecture)
 
 ## Project Overview
 
@@ -55,6 +56,7 @@ Before you begin, ensure you have the following prerequisites:
 
 3. Set up your Apache Airflow environment and configure the necessary connections and variables according to the provided examples in the project.
 
-
+## Architecture
+<img src="X-ETL-Architecture.png">
 
 
