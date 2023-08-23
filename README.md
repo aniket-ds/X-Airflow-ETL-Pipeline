@@ -8,7 +8,7 @@ Welcome to the X-Airflow-ETL-Pipeline project! This project aims to extract data
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Configuration](#configuration)
-- [Architecture] (#architecture)
+- [Architecture](#architecture)
 
 ## Project Overview
 
